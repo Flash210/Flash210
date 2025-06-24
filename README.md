@@ -1,7 +1,42 @@
-<h1 align="center">Hi 👋, I'm Mosbah Houcem Eddine</h1> <h3 align="center"> Software QA Engineer from Tunisia</h3> <img align="right" alt="QA Testing" width="400" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/software-testing-career-path-graphic.jpg"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=flash210&label=Profile%20views&color=0e75b6&style=flat" alt="flash210" /> </p>
-🌱 I’m currently enhancing my skills in Automated Testing & Test Automation Tools
+<h1 align="center">Hi 👋, I'm Mosbah Houcem Eddine</h1>  
+<h3 align="center">QA Engineer | Manual & Automation Tester | Curious Pentester from Tunisia</h3>  
 
-💬 Ask me about QA Testing, Selenium, Manual Testing
-📫 How to reach me houcem.eddine.mosbah@gmail.com
+<img align="right" alt="QA Testing" width="400" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/software-testing-career-path-graphic.jpg">  
 
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="40" width="40" /></a> <a href="https://github.com/flash210" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" height="40" width="40" /></a> </p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_jmeter/apache_jmeter-icon.svg" alt="jmeter" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p> <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=flash210&show_icons=true&locale=en&layout=compact" alt="flash210" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flash210&" alt="flash210" /></p>
+<p align="left">  
+  <img src="https://komarev.com/ghpvc/?username=flash210&label=Profile%20views&color=0e75b6&style=flat" alt="flash210" />  
+</p>  
+
+🌟 I am a QA Engineer with hands-on experience in **Manual Testing** and **Automation Testing** using tools like **Playwright** and **Cypress**.  
+🕵️‍♂️ I’m also deeply curious about **penetration testing** and continuously learning about application security.  
+
+🌱 I’m currently enhancing my skills in Test Automation and exploring modern testing frameworks.  
+💬 Ask me about QA Testing, Playwright, Cypress, Selenium, or Manual Testing.  
+📫 How to reach me: **houcem.eddine.mosbah@gmail.com**
+
+---
+
+<h3 align="left">Connect with me:</h3>  
+<p align="left">  
+  <a href="https://linkedin.com/in/your-profile" target="blank">  
+    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="40" width="40" />  
+  </a>  
+  <a href="https://github.com/flash210" target="blank">  
+    <img align="center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" height="40" width="40" />  
+  </a>  
+</p>  
+<h3 align="left">Languages and Tools:</h3>  
+<p align="left">  
+  <a href="https://playwright.dev/" target="_blank" rel="noreferrer">  
+    <img src="https://playwright.dev/img/playwright-logo.svg" alt="playwright" width="40" height="40"/>  
+  </a>  
+  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">  
+    <img src="https://www.vectorlogo.zone/logos/cypressio/cypressio-icon.svg" alt="cypress" width="40" height="40"/>  
+  </a>  
+  <a href="https://circleci.com/" target="_blank" rel="noreferrer">  
+    <img src="https://circleci.com/docs/assets/img/logo-circleci.svg" alt="ci-cd" width="40" height="40"/>  
+  </a>  
+  <a href="https://postman.com" target="_blank" rel="noreferrer">  
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>  
+  </a>  
+</p>  
