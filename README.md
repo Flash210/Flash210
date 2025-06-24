@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
   <a href="https://www.linkedin.com/in/mosbah-houcem-eddine-55a886207/" target="_blank">  
-    <img align="center" src="https://fr.vecteezy.com/png/18930480-logo-linkedin-png-icone-linkedin-png-transparent" alt="linkedin" height="40" width="40" />  
+    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="40" width="40" />  
   </a>  
  
 </p>  
