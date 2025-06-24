@@ -2,9 +2,7 @@
 <h3 align="center">QA Engineer | Manual & Automation Tester | Curious Pentester</h3>  
 
 
-<p align="left">  
-  <img src="https://komarev.com/ghpvc/?username=flash210&label=Profile%20views&color=0e75b6&style=flat" alt="flash210" />  
-</p>  
+
 
 🌟 I am a QA Engineer with hands-on experience in **Manual Testing** and **Automation Testing** using tools like **Playwright** and **Cypress**.  
 🕵️‍♂️ I’m also deeply curious about **penetration testing** and continuously learning about application security.  
@@ -17,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
-  <a href="https://linkedin.com/in/your-profile" target="_blank">  
+  <a href="https://www.linkedin.com/in/mosbah-houcem-eddine-55a886207/" target="_blank">  
     <img align="center" src="https://www.linkedin.com/in/mosbah-houcem-eddine-55a886207/" alt="linkedin" height="40" width="40" />  
   </a>  
  
