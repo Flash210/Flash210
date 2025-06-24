@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mosbah Houcem Eddine</h1>  
 <h3 align="center">QA Engineer | Manual & Automation Tester | Curious Pentester</h3>  
 
-<img align="right" alt="QA Tester" width="400" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/software-testing-career-path-graphic.jpg">  
 
 <p align="left">  
   <img src="https://komarev.com/ghpvc/?username=flash210&label=Profile%20views&color=0e75b6&style=flat" alt="flash210" />  
@@ -19,11 +18,9 @@
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
   <a href="https://linkedin.com/in/your-profile" target="_blank">  
-    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="40" width="40" />  
+    <img align="center" src="https://www.linkedin.com/in/mosbah-houcem-eddine-55a886207/" alt="linkedin" height="40" width="40" />  
   </a>  
-  <a href="https://github.com/flash210" target="_blank">  
-    <img align="center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" height="40" width="40" />  
-  </a>  
+ 
 </p>  
 
 <h3 align="left">Languages and Tools:</h3>  
